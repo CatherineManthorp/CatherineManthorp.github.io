@@ -11,5 +11,6 @@
 <body>
 <h2>Top Attractions to Visit in NYC</h2>
 <iframe width="1000" height="600" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col1%2C+col2%2C+col3%2C+col4%2C+col5+from+1z5qxlKn3kzisU01h2kLOith_UE_nNYs6RV_R97ry&amp;containerId=googft-gviz-canvas"></iframe>
+<h4>Made with Google Fusion</h4>
 </body>
 </md>
