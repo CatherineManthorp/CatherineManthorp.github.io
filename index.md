@@ -14,7 +14,7 @@
 </body>
 <body>
 <h2>Top Attractions to Visit in NYC</h2>
-<iframe width="1000" height="600" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col1%2C+col2%2C+col3%2C+col4%2C+col5+from+1z5qxlKn3kzisU01h2kLOith_UE_nNYs6RV_R97ry&amp;containerId=googft-gviz-canvas"></iframe>
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1z5qxlKn3kzisU01h2kLOith_UE_nNYs6RV_R97ry&amp;viz=MAP&amp;h=false&amp;lat=40.86042659051754&amp;lng=-73.9888840068848&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 <p>Made with Google Fusion</p>
 </body>
 <body>
