@@ -9,6 +9,8 @@
 <h1>Check Out my Work Below!</h1>
 </body>
 <body>
+<body topmargin="50">
+<body leftmargin="50">
 <h2>Race and Ethnicity at Lehigh</h2>
 <img class="pretty" src=race.png style="width: 75%">
 <p>Made with Canva</p>
@@ -18,6 +20,8 @@
 <p>Made with TimelineJS</p>
 </body>
 <body>
+<body topmargin="50">
+<body leftmargin="50">
 <img class="pretty" src=womenolympics.png style="width: 75%">
 <p>Made with Chartbuilder</p>
 </body>
