@@ -6,7 +6,7 @@
 
 <h1>Check Out my Work Below!</h1>
 <br>
-
+<h2>Undergraduate Race and Ethnicity Distribution at Lehigh</h2>
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 <br>
 
