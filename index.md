@@ -9,11 +9,11 @@
 <body>
 <h1>Check Out my Work Below!</h1>
 </body>
-<body>
+
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 [Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.html)
 <p>Made with Canva</p>
-</body>
+
 <p>
 <body>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hXOw36pGS262etc4D0Ut_Gt61j66F8neVZKxBqYD9Lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
