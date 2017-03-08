@@ -10,8 +10,8 @@
 <h1>Check Out my Work Below!</h1>
 </body>
 <body>
-![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://github.com/CatherineManthorp/CatherineManthorp.github.io/blob/master/race.png)
-[Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://github.com/CatherineManthorp/CatherineManthorp.github.io/blob/master/race.html)
+![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
+[Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.html)
 <p>Made with Canva</p>
 </body>
 <p>
