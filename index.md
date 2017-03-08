@@ -6,25 +6,29 @@
 
 <h1>Check Out my Work Below!</h1>
 <br>
+
 <h2>Undergraduate Race and Ethnicity Distribution at Lehigh</h2>
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 <br>
-
 <p>Made with Canva</p>
 
-
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hXOw36pGS262etc4D0Ut_Gt61j66F8neVZKxBqYD9Lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<br>
 <p>Made with TimelineJS</p>
 
-![Timeline of Women Olympics](CatherineManthorp.github.io/womenolympics.png)
+![Time Series of Women in the Olympics](https://catherinemanthorp.github.io/womenolympics.png)
+<br>
+<p>Made with Chartbuilder</p>
 
 <h2>Top Attractions to Visit in NYC</h2>
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1z5qxlKn3kzisU01h2kLOith_UE_nNYs6RV_R97ry&amp;viz=MAP&amp;h=false&amp;lat=40.86042659051754&amp;lng=-73.9888840068848&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<br>
 <p>Made with Google Fusion</p>
-<br>
-<div class='tableauPlaceholder' id='viz1488991415810' style='position: relative'><noscript><a href='#'><img alt='Ethnicity and Sex Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BachelorsPercentage&#47;EthnicityandSexDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='BachelorsPercentage&#47;EthnicityandSexDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BachelorsPercentage&#47;EthnicityandSexDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1488991415810');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='504px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='569px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-<p>Made with Tableau</p>
-<br>
-<iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
-<p>Made with Pixton</p>
 
+<div class='tableauPlaceholder' id='viz1488991415810' style='position: relative'><noscript><a href='#'><img alt='Ethnicity and Sex Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BachelorsPercentage&#47;EthnicityandSexDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='BachelorsPercentage&#47;EthnicityandSexDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BachelorsPercentage&#47;EthnicityandSexDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1488991415810');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='504px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='569px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<br>
+<p>Made with Tableau</p>
+
+<iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+<br>
+<p>Made with Pixton</p>
