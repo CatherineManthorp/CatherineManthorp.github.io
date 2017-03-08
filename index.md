@@ -1,5 +1,3 @@
-<html>
-<body>
 <h1>About Me</h1>
 <p>Hi, my name is Cathy and I'm a junior at Lehigh University! I'm pursuing a double major in Journalism and Economics in the College of Arts and Sciences. In addition to my studies, I'm the president of Kappa Delta Sorority, a member of the Panhellenic Council on the Judicial Board, and an associate editor for the sports section of The Brown and White as well as a news reporter.</p>
 <h3>Contact Information</h3>
@@ -8,17 +6,19 @@
 
 <h1>Check Out my Work Below!</h1>
 <br>
-<md>
+
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 <br>
 [Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.html)
 <br>
-</md>
+
 <p>Made with Canva</p>
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hXOw36pGS262etc4D0Ut_Gt61j66F8neVZKxBqYD9Lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <p>Made with TimelineJS</p>
+
+![Timeline of Women Olympics](CatherineManthorp.github.io/womenolympics.png)
 
 <h2>Top Attractions to Visit in NYC</h2>
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1z5qxlKn3kzisU01h2kLOith_UE_nNYs6RV_R97ry&amp;viz=MAP&amp;h=false&amp;lat=40.86042659051754&amp;lng=-73.9888840068848&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
@@ -29,5 +29,4 @@
 <br>
 <iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
 <p>Made with Pixton</p>
-</body>
-</html>
+
