@@ -5,10 +5,10 @@
 <h3>Contact Information</h3>
 <p>Email: cam318@lehigh.edu</p>
 </body>
-<p>
-<body>
-<h1>Check Out my Work Below! Thanks.</h1>
-</body>
+
+
+Check Out my Work Below! Thanks.
+
 
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 [Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.html)
