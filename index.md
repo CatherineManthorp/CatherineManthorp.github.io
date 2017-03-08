@@ -7,7 +7,7 @@
 </body>
 <p>
 <body>
-<h1>Check Out my Work Below!</h1>
+<h1>Check Out my Work Below! Thanks.</h1>
 </body>
 
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
