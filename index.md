@@ -10,10 +10,8 @@
 <h1>Check Out my Work Below!</h1>
 </body>
 <body>
-<body topmargin="50">
-<body leftmargin="50">
-<h2>Race and Ethnicity at Lehigh</h2>
-<img class="pretty" src=race.png style="width: 75%">
+{https://github.com/CatherineManthorp/CatherineManthorp.github.io/blob/master/race.png}
+{https://github.com/CatherineManthorp/CatherineManthorp.github.io/blob/master/race.html}
 <p>Made with Canva</p>
 </body>
 <p>
