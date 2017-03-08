@@ -9,8 +9,6 @@
 
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 <br>
-[Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.html)
-<br>
 
 <p>Made with Canva</p>
 
