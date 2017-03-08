@@ -15,6 +15,17 @@
 <h2>Race and Ethnicity at Lehigh</h2>
 <img class="pretty" src=race.png style="width: 75%">
 <p>Made with Canva</p>
+
+<!DOCTYPE HTML>
+<html>
+<body>
+<body topmargin="50">
+<body leftmargin="50">
+<h1>Race and Ethnicity at Lehigh</h1>
+<h2>Catherine Manthorp</h2>
+<img class="pretty" src=race.png style="width: 75%">
+</body>
+</html>
 </body>
 <p>
 <body>
