@@ -51,4 +51,4 @@
 ![First Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag1.jpg)
 ![Second Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag2.jpg)
 
-<h2>To Access my Video on the Lehigh Melismatics, Use this Link: https://drive.google.com/file/d/0BweY_DdhQMmsNWJfdk1rRzZkcFE/view?usp=sharing</h2>
+<h2>To Access my Video on the Lehigh Melismatics, Use this Link: <https://drive.google.com/file/d/0BweY_DdhQMmsNWJfdk1rRzZkcFE/view?usp=sharing></h2>
