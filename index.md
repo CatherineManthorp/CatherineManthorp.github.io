@@ -6,6 +6,9 @@
 
 <h1>Check Out my Work Below!</h1>
 
+<iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+<p>Made with Pixton</p>
+
 <h2>Lehigh Undergraduate Race and Ethnicity Distribution</h2>
 ![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://catherinemanthorp.github.io/race.png)
 <p>Made with Canva</p>
@@ -29,22 +32,23 @@
 </md>
 <br>
 
-<iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
-<p>Made with Pixton</p>
-
 <h2>Portrait Photos</h2>
 ![Portrait of Katherine Medlock after her performance in Lehigh's dance group, Leela](https://CatherineManthorp.github.io/Portrait1.jpg)
+<p>Katherine Medlock, '19, dances for Lehigh's dance group, Leela, at Shamrock 'n Roll on April 1, 2017 in Lamberton. Leela is Lehigh's Indian Fusion dance team.</p>
 
 ![Portrait of Maddie Kobberger at Kappa Delta's Shamrock philanthropy event](http://CatherineManthorp.github.io/Portrait2.jpg)
+<p>Kappa Delta's Vice President-Community Service Maddie Kobberger, '19, receives an appreciation award from the sorority's local beneficiary, Project Child at Shamrock 'n Roll on April 1, 2017 in Lamberton Hall. Kappa Deltas support the fight against child abuse every year at their Shamrock 'n Roll event.</p>
 
 
 <h2>News Photos</h2>
 ![News photo of Maddie Kobberger speaking at Kappa Delta's Shamrock philanthropy event](https://CatherineManthorp.github.io/News1.jpg)
+<p>Maddie Kobberger, Kappa Delta's Vice President-Community Service, introduces the sorority's annual Shamrock event on April 1, 2017 in Lamberton Hall. This year, Kappa Deltas exceeded their fundraising goal and raised over $8,000 to benefit the prevention of child abuse.</p>
 
 ![News photo of Lehigh University's Relay for Life event](https://CatherineManthorp.github.io/News2.jpg)
+<p>Lehigh students walk the track at Lehigh's Relay for Life event on March 31, 2017 in Grace Hall. The annual event exceeded its goal by $60,000 and raised over $146,000 in the fight against cancer.</p>
 
 <h2>The Lehigh Melismatics Magazine Article</h2>
 ![First Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag1.jpg)
 ![Second Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag2.jpg)
 
-<h2>To Access my Video on the Lehigh Melismatics, Click Here: https://drive.google.com/file/d/0BweY_DdhQMmsNWJfdk1rRzZkcFE/view?usp=sharing</h2>
+<h2>To Access my Video on the Lehigh Melismatics, Use this Link: https://drive.google.com/file/d/0BweY_DdhQMmsNWJfdk1rRzZkcFE/view?usp=sharing</h2>
