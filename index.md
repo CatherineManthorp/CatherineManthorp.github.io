@@ -32,7 +32,13 @@
 <iframe src="//www.pixton.com/embed/nlq6u83d" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
 <p>Made with Pixton</p>
 
-<h2>Portraits</h2>
+<h2>Portrait Photos</h2>
 ![Portrait of Katherine Medlock after her performance in Lehigh's dance group, Leela](https://CatherineManthorp.github.io/Portrait1.jpg)
 
 ![Portrait of Maddie Kobberger at Kappa Delta's Shamrock philanthropy event](http://CatherineManthorp.github.io/Portrait2.jpg)
+
+
+<h2>News Photots</h2>
+![News photo of Maddie Kobberger speaking at Kappa Delta's Shamrock event](https://CatherineManthorp.github.io/News1.jpg)
+
+![News photo of Lehigh University's Relay for Life event](https://CatherineManthorp.github.io/News2.jpg)
