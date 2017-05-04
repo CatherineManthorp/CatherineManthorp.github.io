@@ -38,7 +38,13 @@
 ![Portrait of Maddie Kobberger at Kappa Delta's Shamrock philanthropy event](http://CatherineManthorp.github.io/Portrait2.jpg)
 
 
-<h2>News Photots</h2>
-![News photo of Maddie Kobberger speaking at Kappa Delta's Shamrock event](https://CatherineManthorp.github.io/News1.jpg)
+<h2>News Photos</h2>
+![News photo of Maddie Kobberger speaking at Kappa Delta's Shamrock philanthropy event](https://CatherineManthorp.github.io/News1.jpg)
 
 ![News photo of Lehigh University's Relay for Life event](https://CatherineManthorp.github.io/News2.jpg)
+
+<h2>The Lehigh Melismatics Magazine Article</h2>
+![First Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag1.jpg)
+![Second Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag2.jpg)
+
+<h2>To Access my Video on the Lehigh Melismatics, Click Here: https://drive.google.com/file/d/0BweY_DdhQMmsNWJfdk1rRzZkcFE/view?usp=sharing</h2>
