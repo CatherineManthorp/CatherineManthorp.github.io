@@ -34,3 +34,5 @@
 
 <h2>Portraits</h2>
 ![Portrait of Katherine Medlock after her performance in Lehigh's dance group, Leela](https://CatherineManthorp.github.io/Portrait1.jpg)
+
+![Portrait of Maddie Kobberger at Kappa Delta's Shamrock philanthropy event](http://CatherineManthorp.github.io/Portrait2.jpg)
